@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\Alper\bin\Debug\Alper.exe.config
+C:\Users\Mert\source\repos\Alper\bin\Debug\Alper.exe
+C:\Users\Mert\source\repos\Alper\bin\Debug\Alper.pdb
+C:\Users\Mert\source\repos\Alper\bin\Debug\Alper.xml
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.vbprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.Form1.resources
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.Resources.resources
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.vbproj.GenerateResource.cache
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.vbproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.exe
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.xml
+C:\Users\Mert\source\repos\Alper\obj\Debug\Alper.pdb
